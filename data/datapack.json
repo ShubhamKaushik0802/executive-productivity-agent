@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "week_start": "2026-09-21",
+    "week_end": "2026-09-25",
+    "executive": "Arjun Malhotra",
+    "role": "VP Sales"
+  },
+  "sources": [
+    {
+      "source_id": "meeting-001",
+      "source_type": "Meeting",
+      "date": "2026-09-21",
+      "title": "Leadership Sync",
+      "speaker_or_sender": "Arjun Malhotra",
+      "excerpt": "Arjun said he had told Raghav he would send the updated vendor list by end of day tomorrow. Arjun also said he needed to reconfirm the new Meridian Logistics call time himself."
+    },
+    {
+      "source_id": "meeting-002",
+      "source_type": "Meeting",
+      "date": "2026-09-21",
+      "title": "Leadership Sync",
+      "speaker_or_sender": "Neha Kapoor",
+      "excerpt": "Neha said she would send the Q3 campaign deck to Arjun for review by Wednesday; later she said Thursday morning was safer and Arjun noted it."
+    },
+    {
+      "source_id": "meeting-003",
+      "source_type": "Meeting",
+      "date": "2026-09-21",
+      "title": "Leadership Sync",
+      "speaker_or_sender": "Divya Rao",
+      "excerpt": "Divya said she would have the July expense variance report ready Wednesday evening."
+    },
+    {
+      "source_id": "meeting-004",
+      "source_type": "Meeting",
+      "date": "2026-09-21",
+      "title": "Leadership Sync",
+      "speaker_or_sender": "Raghav Sethi",
+      "excerpt": "Raghav raised the Mumbai office renewal paperwork, which needed someone to sign off this week. Arjun explicitly said to flag it and not assume ownership."
+    },
+    {
+      "source_id": "email-1-1",
+      "source_type": "Email",
+      "date": "2026-09-21",
+      "title": "Vendor List",
+      "speaker_or_sender": "Raghav Sethi",
+      "excerpt": "Following up from the sync \u2014 can you send the updated vendor list today?"
+    },
+    {
+      "source_id": "email-1-2",
+      "source_type": "Email",
+      "date": "2026-09-21",
+      "title": "Vendor List",
+      "speaker_or_sender": "Arjun Malhotra",
+      "excerpt": "Running behind, will send first thing tomorrow morning instead."
+    },
+    {
+      "source_id": "email-1-3",
+      "source_type": "Email",
+      "date": "2026-09-22",
+      "title": "Vendor List",
+      "speaker_or_sender": "Raghav Sethi",
+      "excerpt": "No worries, whenever you get a chance today works."
+    },
+    {
+      "source_id": "email-1-4",
+      "source_type": "Email",
+      "date": "2026-09-22",
+      "title": "Vendor List",
+      "speaker_or_sender": "Arjun Malhotra",
+      "excerpt": "Sorry, got pulled into board prep \u2014 will send by tomorrow (Wednesday) morning for sure."
+    },
+    {
+      "source_id": "email-1-5",
+      "source_type": "Email",
+      "date": "2026-09-23",
+      "title": "Vendor List",
+      "speaker_or_sender": "Raghav Sethi",
+      "excerpt": "Just checking \u2014 still good for this morning?"
+    },
+    {
+      "source_id": "email-2-1",
+      "source_type": "Email",
+      "date": "2026-09-21",
+      "title": "Q3 Campaign Deck",
+      "speaker_or_sender": "Neha Kapoor",
+      "excerpt": "Deck\u2019s coming together, still targeting Wednesday for your review."
+    },
+    {
+      "source_id": "email-2-2",
+      "source_type": "Email",
+      "date": "2026-09-22",
+      "title": "Q3 Campaign Deck",
+      "speaker_or_sender": "Neha Kapoor",
+      "excerpt": "Shifting the review to Thursday morning instead of Wednesday, need one more day on the data slides."
+    },
+    {
+      "source_id": "email-2-3",
+      "source_type": "Email",
+      "date": "2026-09-23",
+      "title": "Q3 Campaign Deck",
+      "speaker_or_sender": "Arjun Malhotra",
+      "excerpt": "Understood, Thursday morning works. What time exactly?"
+    },
+    {
+      "source_id": "email-2-4",
+      "source_type": "Email",
+      "date": "2026-09-23",
+      "title": "Q3 Campaign Deck",
+      "speaker_or_sender": "Neha Kapoor",
+      "excerpt": "Let\u2019s say 9:30 AM Thursday, before your board prep block."
+    },
+    {
+      "source_id": "email-2-5",
+      "source_type": "Email",
+      "date": "2026-09-24",
+      "title": "Q3 Campaign Deck",
+      "speaker_or_sender": "Neha Kapoor",
+      "excerpt": "Deck is ready, attaching the draft ahead of our 9:30 review."
+    },
+    {
+      "source_id": "email-3-1",
+      "source_type": "Email",
+      "date": "2026-09-21",
+      "title": "Call Reschedule",
+      "speaker_or_sender": "Priya Nair",
+      "excerpt": "Our scheduled call this week got bumped from our side \u2014 can you propose a new time? We\u2019re flexible Tuesday\u2013Thursday afternoons."
+    },
+    {
+      "source_id": "email-3-2",
+      "source_type": "Email",
+      "date": "2026-09-22",
+      "title": "Call Reschedule",
+      "speaker_or_sender": "Arjun Malhotra",
+      "excerpt": "Apologies for the delay \u2014 how about Wednesday 3:00 PM?"
+    },
+    {
+      "source_id": "email-3-3",
+      "source_type": "Email",
+      "date": "2026-09-22",
+      "title": "Call Reschedule",
+      "speaker_or_sender": "Priya Nair",
+      "excerpt": "Wednesday 3 PM works on our end, confirmed."
+    },
+    {
+      "source_id": "email-3-4",
+      "source_type": "Email",
+      "date": "2026-09-23",
+      "title": "Call Reschedule",
+      "speaker_or_sender": "Priya Nair",
+      "excerpt": "Quick check \u2014 still on for 3 PM today?"
+    },
+    {
+      "source_id": "email-3-5",
+      "source_type": "Email",
+      "date": "2026-09-23",
+      "title": "Call Reschedule",
+      "speaker_or_sender": "Arjun Malhotra",
+      "excerpt": "Yes, confirmed, see you at 3."
+    },
+    {
+      "source_id": "email-4-1",
+      "source_type": "Email",
+      "date": "2026-09-21",
+      "title": "Expense Variance Report",
+      "speaker_or_sender": "Divya Rao",
+      "excerpt": "Starting on the July variance numbers, targeting Thursday morning for board prep as discussed."
+    },
+    {
+      "source_id": "email-4-2",
+      "source_type": "Email",
+      "date": "2026-09-22",
+      "title": "Expense Variance Report",
+      "speaker_or_sender": "Arjun Malhotra",
+      "excerpt": "Actually, can I get it by Wednesday evening instead? Want time to review before Thursday."
+    },
+    {
+      "source_id": "email-4-3",
+      "source_type": "Email",
+      "date": "2026-09-22",
+      "title": "Expense Variance Report",
+      "speaker_or_sender": "Divya Rao",
+      "excerpt": "Wednesday evening is tight but doable, I\u2019ll prioritize it."
+    },
+    {
+      "source_id": "email-4-4",
+      "source_type": "Email",
+      "date": "2026-09-23",
+      "title": "Expense Variance Report",
+      "speaker_or_sender": "Divya Rao",
+      "excerpt": "Report attached, sent as promised."
+    },
+    {
+      "source_id": "email-4-5",
+      "source_type": "Email",
+      "date": "2026-09-23",
+      "title": "Expense Variance Report",
+      "speaker_or_sender": "Arjun Malhotra",
+      "excerpt": "Got it, thank you \u2014 exactly what I needed before tomorrow."
+    },
+    {
+      "source_id": "email-5-1",
+      "source_type": "Email",
+      "date": "2026-09-21",
+      "title": "Mumbai Office Lease Renewal",
+      "speaker_or_sender": "Facilities",
+      "excerpt": "Reminder: the Mumbai office lease renewal requires an authorized signature by Friday, 25 September."
+    },
+    {
+      "source_id": "email-5-2",
+      "source_type": "Email",
+      "date": "2026-09-22",
+      "title": "Mumbai Office Lease Renewal",
+      "speaker_or_sender": "Raghav Sethi",
+      "excerpt": "Has anyone confirmed who\u2019s signing off on the Mumbai renewal? Don\u2019t think it\u2019s been assigned."
+    },
+    {
+      "source_id": "email-5-3",
+      "source_type": "Email",
+      "date": "2026-09-23",
+      "title": "Mumbai Office Lease Renewal",
+      "speaker_or_sender": "Divya Rao",
+      "excerpt": "Not on my end \u2014 I believe this typically sits with Facilities directly, not us."
+    },
+    {
+      "source_id": "email-5-4",
+      "source_type": "Email",
+      "date": "2026-09-24",
+      "title": "Mumbai Office Lease Renewal",
+      "speaker_or_sender": "Facilities",
+      "excerpt": "Second reminder: signature is still pending. Deadline is Friday, 25 September, end of day."
+    },
+    {
+      "source_id": "email-5-5",
+      "source_type": "Email",
+      "date": "2026-09-24",
+      "title": "Mumbai Office Lease Renewal",
+      "speaker_or_sender": "Raghav Sethi",
+      "excerpt": "This is now one day out and still unowned \u2014 can you confirm who\u2019s handling it?"
+    },
+    {
+      "source_id": "voice-001",
+      "source_type": "Voice Note",
+      "date": "2026-09-21",
+      "title": "Personal voice memo",
+      "speaker_or_sender": "Arjun Malhotra",
+      "excerpt": "Need to get Raghav that vendor list; it might slip to tomorrow morning. Also still haven\u2019t heard back on the Mumbai lease thing, someone needs to own that, I don\u2019t think it\u2019s me."
+    },
+    {
+      "source_id": "voice-002",
+      "source_type": "Voice Note",
+      "date": "2026-09-23",
+      "title": "Personal voice memo",
+      "speaker_or_sender": "Arjun Malhotra",
+      "excerpt": "Expense variance report from Divya needs to be in my hands by Wednesday evening. Also Meridian call \u2014 I owe Priya a time, need to lock that in today."
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-09-21",
+      "start": "09:00",
+      "end": "09:35",
+      "event": "Leadership Sync"
+    },
+    {
+      "date": "2026-09-21",
+      "start": "14:00",
+      "end": "14:30",
+      "event": "1:1 with Neha"
+    },
+    {
+      "date": "2026-09-21",
+      "start": "16:00",
+      "end": "17:00",
+      "event": "Blocked"
+    },
+    {
+      "date": "2026-09-22",
+      "start": "11:00",
+      "end": "12:00",
+      "event": "Internal Budget Review"
+    },
+    {
+      "date": "2026-09-22",
+      "start": "15:00",
+      "end": "15:30",
+      "event": "Blocked"
+    },
+    {
+      "date": "2026-09-23",
+      "start": "15:00",
+      "end": "15:30",
+      "event": "Call \u2014 Meridian Logistics"
+    },
+    {
+      "date": "2026-09-23",
+      "start": "18:00",
+      "end": "18:15",
+      "event": "Blocked"
+    },
+    {
+      "date": "2026-09-24",
+      "start": "09:00",
+      "end": "10:00",
+      "event": "Board Prep Session"
+    },
+    {
+      "date": "2026-09-24",
+      "start": "16:00",
+      "end": "17:00",
+      "event": "Hiring Panel \u2014 Sales Associate"
+    },
+    {
+      "date": "2026-09-25",
+      "start": "10:00",
+      "end": "10:30",
+      "event": "Facilities Check-in"
+    },
+    {
+      "date": "2026-09-25",
+      "start": "13:00",
+      "end": "14:00",
+      "event": "Blocked"
+    },
+    {
+      "date": "2026-09-24",
+      "start": "09:30",
+      "end": "10:00",
+      "event": "Deck Review with Arjun"
+    }
+  ],
+  "submission": {
+    "candidate": "Shubham Kaushik",
+    "assignment": "Assignment 1 \u2014 Executive Productivity Agent"
+  }
+}
